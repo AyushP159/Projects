@@ -1,8 +1,9 @@
 # Projects
-1) C language implementation of Greedy Job Scheduling Algorithm
-2) C language implementation of Snake and Ladders Game
-   run all c codes in c language enviroment such as embarcadero c++,vs code etc
-3) Sunburn(only html and css)
+1) job_scheduling.c:
+   C language implementation of Greedy Job Scheduling Algorithm
+2) snake-n-ladder.c:
+   C language implementation of Snake and Ladders Game
+3) Sunburn.html
    Fully functional site with additional front-end effects such as parallex effect used to increase overall site's visual
 4) page2.css
    it is the css file of sunburn website,paste it in same location as sunburn.html
